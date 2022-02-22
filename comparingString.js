@@ -10,4 +10,4 @@ console.log(text != 'concat');
 
 console.log(text !== 'concat');
 
-console.log(text < dog);
+console.log(text < 'dog');
